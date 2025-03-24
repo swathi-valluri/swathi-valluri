@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Hi+I+am+Swathi+Valluri;Data+Analyst+%7C+Business+Analyst" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Hi+I+am+Swathi+Valluri;Data+Analyst+%7C+Open+Source+Contributor" alt="Animated Header" />
 </p>
 
 <p align="center">
