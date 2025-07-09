@@ -13,7 +13,7 @@
 
 ---
 
-I'm a Data and Business Analyst passionate about transforming information into actionable insights and building effective solutions. I focus on creating impactful visualizations, optimizing processes, and solving real-world problems. I specialize in data analysis, requirement gathering, and collaborating on meaningful data and business projects.
+I'm a Software Engineer passionate about transforming information into actionable insights and building effective solutions. I focus on creating impactful visualizations, optimizing processes, and solving real-world problems. I specialize in data analysis, requirement gathering, and collaborating on meaningful data and business projects.
 
 ---
 
